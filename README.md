@@ -2,7 +2,7 @@
 
 ### 一个基于C#开发的蛋白住工程网站集合平台
 
-[image](https://github.com/ReLuckyLucy/ProTAI/blob/main/img/top.png)
+![image](https://github.com/ReLuckyLucy/ProTAI/blob/main/img/top.png)
 
 ## Introduction - 介绍
 
